@@ -4,5 +4,7 @@ aquila
 elefante
 serpente
 lupo
+cane
 delfino
+volpe
 orso
