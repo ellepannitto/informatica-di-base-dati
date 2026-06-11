@@ -1,0 +1,12 @@
+Alice,Rossi,30
+Marco,Bianchi,24
+Giulia,Verdi,28
+Luca,Neri,18
+Sara,Conti,27
+Andrea,Mancini,22
+Elena,Ferrari,30
+Davide,Ricci,15
+Chiara,Lombardi,29
+Matteo,Romano,26
+Francesca,Esposito,30
+Giorgio,De Luca,19

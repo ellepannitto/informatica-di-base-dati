@@ -1,0 +1,8 @@
+volpe
+cane
+aquila
+elefante
+serpente
+lupo
+delfino
+orso

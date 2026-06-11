@@ -1,0 +1,8 @@
+gatto
+cane
+topo
+elefante
+leone
+tigre
+lupo
+orso

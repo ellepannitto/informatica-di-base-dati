@@ -1,0 +1,5 @@
+mela,3
+pera,5
+mela,2
+ananas,0
+mela,1
